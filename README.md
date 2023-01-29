@@ -1,18 +1,43 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2636
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww30040\viewh16540\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+<p align="center"><img src="https://socialify.git.ci/MattMBenson/ParityBitPrediction/image?description=1&amp;descriptionEditable=About%20Implemented%20a%20standard%20feed%20forward%20neural%20network%20and%20the%20ba-ck%20propagation%20training%20algorithm%20from%20scratch.%20&amp;font=Inter&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-\f0\fs30 \cf0 Name: Matthew Benson\
-Student Number: 6729388\
-Class: COSC 3P71\
-Date: Sunday, December 5th, 2021\
-\
-The sample output attached is ran with default settings left when submitted.\
-\
-For change of the parameters, edit the code on lines 15 - 17.\
-For change of the training vs testing set, edit the code on lines 19 - 42.\
-\
-To run the program simple execute the main.py and watch for the output, not much too it.}
+<p id="description">About Implemented a standard feed forward neural network and the backpropagation training algorithm from scratch. Demonstrated by training a network to act as a parity checking system.</p>
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Install python via web</p>
+
+```
+Dowload the lastest version from python.org
+```
+
+<p>2. Install python via homebrew</p>
+
+```
+brew install python
+```
+
+<p>3. Install numpy</p>
+
+```
+pip install numpy
+```
+
+<h2>🍰 Contribution Guidelines:</h2>
+
+Open-source fork and create a pull request. No guidelines here just a simple demo for all to use
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   python
+*   numpy
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT
+
+<h2>💖Like my work?</h2>
+Connect on my socials or drop a star.
